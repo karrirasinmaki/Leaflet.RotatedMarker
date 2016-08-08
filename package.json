@@ -5,7 +5,7 @@
     "main": "leaflet.rotatedMarker.js",
     "repository": {
         "type": "git",
-        "url": "git@github.com:bbecquet/Leaflet.RotatedMarker.git"
+        "url": "git@github.com:karrirasinmaki/Leaflet.RotatedMarker.git"
     },
     "author": {
         "name": "Benjamin Becquet",
